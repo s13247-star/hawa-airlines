@@ -1,0 +1,6 @@
+{
+  "name": "Hawa.Airlines",
+  "description": "Premium airline ticket reservation and loyalty rewards platform with interactive flight search, cabin seat selection, fare comparison, and SkyClub points redemption for M.Isam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
